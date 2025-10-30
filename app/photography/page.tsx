@@ -3,6 +3,7 @@ import GridWithLightbox from "@/components/GridWithLightbox";
 export default function PhotoPage(){
   const images = [
     { src: "/images/photography_01.jpg", title: "H&M" },
+    { src: "/video/photography_03.mov", title: "H&M" },
     { src: "/images/photography_08.jpg", title: "H&M" },
     { src: "/images/photography_14.jpg", title: "H&M" },
     { src: "/images/photography_15.jpg", title: "H&M" },
