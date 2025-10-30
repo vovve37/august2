@@ -22,7 +22,7 @@ export default function Navbar(){
           ))}
         </nav>
         <div className="text-center text-lg font-semibold tracking-[0.3em] uppercase">
-          AUGUST ERIKSSON
+        <Link href="/" className="hover:opacity-80">AUGUST ERIKSSON</Link>
         </div>
         <div />
       </div>
