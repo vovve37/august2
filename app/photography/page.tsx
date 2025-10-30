@@ -6,8 +6,8 @@ export default function PhotoPage(){
     { src: "/video/photography_03.mov", title: "H&M" },
     { src: "/images/photography_08.jpg", title: "H&M" },
     { src: "/images/photography_14.jpg", title: "H&M" },
-    { src: "/images/photography_15.jpg", title: "H&M" },
-    { src: "/images/photography_21.jpg", title: "H&M" },
+    { src: "/images/photography_15.jpg", title: "Sköna Hem" },
+    { src: "/images/photography_21.jpg", title: "Elle Deco" },
   ];
 
   return (
