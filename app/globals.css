@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+html, body, main { height: 100%; }
+body { @apply bg-neutral-100 text-neutral-900; }
+.container { @apply max-w-6xl mx-auto px-4; }
+a { @apply underline-offset-4; }
+img { display:block; }
