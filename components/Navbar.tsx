@@ -6,7 +6,7 @@ const nav = [
   { href: "/ai", label: "AI" },
   { href: "/photography", label: "PHOTOGRAPHY" },
   { href: "/books", label: "BOOKS" },
-  { href: "/about", label: "ABOUT / CV" },
+  { href: "/about", label: "ABOUT" }, // ← ändrat
 ];
 
 export default function Navbar(){
