@@ -4,8 +4,14 @@ export default function AIPage(){
   const images = [
     { src: "/images/ai_02.jpg", title: "H&M" },
     { src: "/images/ai_03.jpg", title: "H&M" },
+    { src: "/video/ai_04.mov", title: "H&M" },
     { src: "/images/ai_05.jpg", title: "H&M" },
+    { src: "/images/ai_06.jpg", title: "H&M" },
     { src: "/images/ai_07.jpg", title: "H&M" },
+    { src: "/images/ai_08.jpg", title: "H&M" },
+    { src: "/images/ai_09.jpg", title: "H&M" },
+    { src: "/images/ai_10.jpg", title: "H&M" },
+    { src: "/images/ai_11.jpg", title: "H&M" },
     { src: "/images/ai_12.jpg", title: "H&M" },
   ];
   return (
