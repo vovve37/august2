@@ -21,16 +21,17 @@ export default function AIPage(){
         <h1 className="text-center text-3xl md:text-4xl font-semibold tracking-[0.2em] mb-10">AI</h1>
 
         {/* RAD 1 i griden: vänster = video i 3:2, höger = tom plats */}
-        <div className="grid gap-10 md:gap-14 grid-cols-1 md:grid-cols-2 mb-16">
-          <figure>
-            <div className="w-full aspect-[3/2] overflow-hidden bg-neutral-100">
-              <video
-                src="/video/the-interview.mp4"
-                poster="/images/4_14.jpg"
-                controls
-                className="w-full h-full object-contain"
-              />
-            </div>
+        
+        {/* Film poster + embedded video */}
+      <div className="w-full aspect-[3/2] overflow-hidden bg-neutral-100 mb-10">
+        <video
+          src="https://askmjbecgnz35zwl.public.blob.vercel-storage.com/the_interview.mp4"
+          poster="/images/4_14.jpg"  /* byt till din posterbild om namnet skiljer sig */
+          controls
+          className="w-full h-full object-contain"
+        />
+      </div>
+
             <figcaption className="mt-3 text-xs md:text-sm text-center">
               THE INTERVIEW – AN AI SHORT FILM
             </figcaption>
@@ -46,3 +47,12 @@ export default function AIPage(){
     </section>
   );
 }
+{/* Film poster + embedded video */}
+<div className="w-full aspect-[3/2] overflow-hidden bg-neutral-100 mb-10">
+  <video
+    src="https://askmjbecgnz35zwl.public.blob.vercel-storage.com/the_interview.mp4"
+    poster="/images/4_14.jpg"  /* byt till din posterbild om namnet skiljer sig */
+    controls
+    className="w-full h-full object-contain"
+  />
+</div>
