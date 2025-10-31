@@ -8,15 +8,15 @@ export default function About(){
           <div className="md:col-span-2 text-center md:text-left">
             <h3 className="text-xl font-semibold">About</h3>
             <p className="mt-3 text-neutral-700">
-              Photographer and image maker based in Stockholm. Commercial studio background with 15+ years of collaboration with H&amp;M and editorial clients.
+              Photographer, AI-artist and author of photo books. I am an experienced photographer with over 25 years of professional work in studio and interior photography. Extensive collaboration with H&M, and other clients across a wide range of editorials, campaigns and creative teams. Educated in AI-driven image and film production at Curious Refuge, with a focus on open-source tools and customized workflows. My practice blends classic craft with the latest technology: I build custom ComfyUI pipelines, prompt-engineer in tools such as Midjourney, Seedream, Seedance and, Wan. I am very experienced in working closely with multiple stages of production: pre-production with art buyers, in the creative production phase with art directors.
             </p>
           </div>
 
           <aside className="md:col-span-1">
             <div className="rounded-2xl border p-4 bg-white/60 text-center md:text-left">
               <h4 className="font-semibold">Contact</h4>
-              <p className="text-sm text-neutral-600 mt-1">Inquiries for advertising, fashion and editorial.</p>
-              <a href="mailto:contact@augusteriksson.com" className="mt-3 inline-block px-4 py-2 rounded-2xl bg-black text-white text-sm">Email</a>
+              <p className="text-sm text-neutral-600 mt-1">Inquiries </p>
+              <a href="mailto:info@august.se" className="mt-3 inline-block px-4 py-2 rounded-2xl bg-black text-white text-sm">Email</a>
             </div>
           </aside>
         </div>
