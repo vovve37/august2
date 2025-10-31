@@ -14,7 +14,7 @@ export default function About(){
           <aside className="md:col-span-1">
             <div className="rounded-2xl border p-4 bg-white/60 text-center md:text-left">
               <h4 className="font-semibold">Contact</h4>
-              <p className="text-sm text-neutral-600 mt-1">Inquiries </p>
+              <p className="text-sm text-neutral-600 mt-1">+46 708881742 </p>
               <a href="mailto:info@august.se" className="mt-3 inline-block px-4 py-2 rounded-2xl bg-black text-white text-sm">Email</a>
             </div>
           </aside>
