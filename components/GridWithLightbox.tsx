@@ -14,11 +14,12 @@ export default function GridWithLightbox({items}:{items:MediaItem[]}){
       <div className="grid gap-10 md:gap-14 grid-cols-1 md:grid-cols-2">
         {items.map((it,i)=>(
           <figure key={i} className="cursor-zoom-in" onClick={()=>openAt(i)}>
-            <div className="w-full aspect-[4/3] overflow-hidden bg-white">
+            {/* 3:2-behållare, ingen beskärning */}
+            <div className="w-full aspect-[3/2] overflow-hidden bg-neutral-100">
               <img
                 src={it.src}
                 alt={it.title||""}
-                className="w-full h-full object-cover"
+                className="w-full h-full object-contain"
               />
             </div>
             {it.title && (
