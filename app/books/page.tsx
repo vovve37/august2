@@ -1,8 +1,8 @@
 export default function Books(){
   const books = [
-    { src: "/images/book_01.jpg", title: "What Happens When Nothing Happens", link: "#" },
-    { src: "/images/book_02.jpg", title: "Circling The Mountain", link: "#" },
-    { src: "/images/book_03.jpg", title: "The Walk", link: "#" },
+    { src: "/images/book_01.jpg", title: "What Happens When Nothing Happens"},
+    { src: "/images/book_02.jpg", title: "Circling The Mountain, link: "#" },
+    { src: "/images/book_03.jpg", title: "The Walk"},
   ];
   return (
     <section className="min-h-screen py-16">
