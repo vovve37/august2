@@ -33,7 +33,7 @@ export default function AIPage(){
               />
             </div>
             <figcaption className="mt-3 text-xs md:text-sm text-center">
-              THE INTERVIEW – AN AI SHORT FILM
+              The Interview - An AI Short Film
             </figcaption>
           </figure>
           <div aria-hidden className="hidden md:block" />
