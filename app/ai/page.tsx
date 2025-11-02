@@ -11,7 +11,7 @@ export default function AIPage(){
     { src: "/images/ai_08.jpg", title: " " },
     { src: "/images/ai_09.jpg", title: " " },
     { src: "/images/ai_10.jpg", title: " " },
-    { src: "/images/ai_12.jpg", title: "Spec ad Loro Piana" }
+    { src: "/images/ai_12.jpg", title: "Spec Ad Loro Piana" }
   ];
 
   return (
