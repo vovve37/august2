@@ -5,6 +5,7 @@ export default function AIPage(){
   const images = [
     { src: "/images/ai_02.jpg", title: "Klarna" },
     { src: "/images/ai_03.jpg", title: "Klarna" },
+    { src: "/video/toteme_web.mp4", title: " " },
     { src: "/images/ai_05.jpg", title: " " },
     { src: "/images/ai_06.jpg", title: " " },
     { src: "/images/ai_07.jpg", title: " " },
