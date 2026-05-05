@@ -2,10 +2,10 @@ import Link from "next/link";
 
 export default function CarolinaHerreraPage() {
   const images = [
-    "/images/carolina-herrera/ch_01.jpg",
-    "/images/carolina-herrera/ch_02.jpg",
-    "/images/carolina-herrera/ch_03.jpg",
-    "/images/carolina-herrera/ch_04.jpg",
+    "/images/ch/ch_01.jpg",
+    "/images/ch/ch_02.jpg",
+    "/images/ch/ch_03.jpg",
+    "/images/ch/ch_04.jpg",
   ];
 
   return (
