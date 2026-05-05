@@ -4,8 +4,6 @@ export default function KlarnaPage() {
   const images = [
     "/images/klarna/Klarna 01.jpg",
     "/images/klarna/Klarna 02.jpg",
-    "/images/klarna2/Klarna 03.jpg",
-    "/images/klarna2/Klarna 04.jpg",
   ];
 
   return (
