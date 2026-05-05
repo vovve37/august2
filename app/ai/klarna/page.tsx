@@ -2,10 +2,10 @@ import Link from "next/link";
 
 export default function KlarnaPage() {
   const images = [
-    "/images/klarna/klarna_01.jpg",
-    "/images/klarna/klarna_02.jpg",
-    "/images/klarna/klarna_03.jpg",
-    "/images/klarna/klarna_04.jpg",
+    "/images/klarna/Klarna 01.jpg",
+    "/images/klarna/Klarna 02.jpg",
+    "/images/klarna/Klarna 03.jpg",
+    "/images/klarna/Klarna 04.jpg",
   ];
 
   return (
