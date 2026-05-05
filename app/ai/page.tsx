@@ -3,8 +3,8 @@ import GridWithLightbox from "@/components/GridWithLightbox";
 export default function AIPage(){
   // Endast stillbilder här. Videon läggs separat nedan.
   const images = [
-    { src: "/images/ai_02.jpg", title: "Klarna" },
-    { src: "/images/ai_03.jpg", title: "Klarna" },
+    { src: "/images/ai_02.jpg", title: "Klarna", href: "/ai/klarna" },
+    { src: "/images/ai_03.jpg", title: "Klarna", href: "/ai/klarna" },
     { src: "/images/ai_05.jpg", title: " " },
     { src: "/images/ai_06.jpg", title: " " },
     { src: "/images/ai_07.jpg", title: " " },
