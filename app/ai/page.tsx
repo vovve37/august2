@@ -5,6 +5,8 @@ export default function AIPage(){
   const images = [
     { src: "/images/ai_02.jpg", title: "Klarna", href: "/ai/klarna" },
     { src: "/images/ai_03.jpg", title: "Klarna", href: "/ai/klarna2" },
+    { src: "/images/hm_poster.jpg", title: "H&M", href: "/ai/hm" },
+    { src: "/images/ch_poster.jpg", title: "Carolina Herrera", href: "/ai/carolina-herrera" },
     { src: "/images/ai_05.jpg", title: " " },
     { src: "/images/ai_06.jpg", title: " " },
     { src: "/images/ai_07.jpg", title: " " },
